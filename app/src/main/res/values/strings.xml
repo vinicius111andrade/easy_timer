@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">EasyTimer</string>
+    <string name="title_activity_maifgn">MaifgnActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- Home Strings -->
+
+    <string name="start_timer">0:00</string>
+    <string name="thirty_seconds">30</string>
+    <string name="one_minute">1:00</string>
+    <string name="two_minutes">2:00</string>
+
+    <!-- Home Strings End -->
+
+</resources>
